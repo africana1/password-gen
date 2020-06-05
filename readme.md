@@ -1,3 +1,3 @@
 Password Generator
 
-<a href="">Live Demo<a>
+<a href="https://web-password-gen.netlify.app/">Live Demo<a>
